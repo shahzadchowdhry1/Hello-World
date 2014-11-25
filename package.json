@@ -1,0 +1,19 @@
+{
+  "name": "shahzadHelloWorld",
+  "version": "1.0.0",
+  "description": "say hello world!",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shahzadchowdhry1"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "shahzad chowdhry",
+  "license": "mit"
+}
